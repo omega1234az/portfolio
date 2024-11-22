@@ -12,7 +12,7 @@ export const Navbar = () => {
                         alt="Profile"
                         className="rounded-full"
                     />
-                    <div>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim ad magni accusamus natus! Iste laboriosam voluptas, modi nesciunt illum veritatis non, commodi asperiores ad aut sunt possimus autem! Inventore, explicabo.</div>
+                    <div>Test</div>
                 </div>
                 
             </div>
